@@ -1,0 +1,10 @@
+{
+  "name": "Hide Users Column",
+  "component": true,
+  "license_url": "null",
+  "about_url": null,
+  "authors": "Dax",
+  "theme_version": null,
+  "minimum_discourse_version": null, 
+  "maximum_discourse_version": null
+}
