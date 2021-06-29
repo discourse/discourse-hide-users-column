@@ -1,3 +1,23 @@
+//Hide posters on Latest and Top pages
+
 .topic-list .posters {
     display: none;
+}
+
+//Hide posters on mobile (even for RTL sites)
+
+.topic-list-item .pull-left {
+  display: none;
+}
+
+.topic-list .right {
+  margin-left: 0px;
+}
+
+.topic-list-item .rtl .pull-left {
+  display: none;
+}
+
+.rtl .topic-list .right {
+  margin-right: 0px;
 }
